@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+    
+}
+li{
+    list-style: none; /*Eliminar viñetas*/
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
